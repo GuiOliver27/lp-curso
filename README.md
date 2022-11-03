@@ -12,4 +12,4 @@ HTML e CSS
 </div>
 
 ## Site do App
-Acesse [aqui](https://imc-calc-app.netlify.app/)
+Acesse [aqui](https://lp-curso.netlify.app/)
